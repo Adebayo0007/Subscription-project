@@ -1,0 +1,6 @@
+@StrivoLab_HostAddress = http://localhost:5087
+
+GET {{StrivoLab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+-- MySQL schema for SubscriptionApi
+CREATE DATABASE IF NOT EXISTS subscriptiondb;
+USE subscriptiondb;
+
+CREATE TABLE IF NOT EXISTS Services (
+  Id INT AUTO_INCREMENT PRIMARY KEY,
+  ServiceId VARCHAR(200) NOT NULL UNIQUE,
+  Password VARCHAR(200) NOT NULL,
+  Description TEXT
+);
+
+CREATE TABLE IF NOT EXISTS Tokens (
+  Id INT AUTO_INCREMENT PRIMARY KEY,
+  TokenId VARCHAR(100) NOT NULL UNIQUE,
+  ServiceId VARCHAR(200) NOT NULL,
+  CreatedAt DATETIME NOT NULL,
+  ExpiresAt DATETIME NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS Subscribers (
+  Id INT AUTO_INCREMENT PRIMARY KEY,
+  ServiceId VARCHAR(200) NOT NULL,
+  PhoneNumber VARCHAR(50) NOT NULL,
+  IsSubscribed TINYINT(1) NOT NULL DEFAULT 0,
+  SubscribedAt DATETIME NULL,
+  UnsubscribedAt DATETIME NULL,
+  UNIQUE KEY svc_phone (ServiceId, PhoneNumber)
+);

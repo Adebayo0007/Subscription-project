@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\C902521\\Desktop\\StrivoLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\sql\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\sql\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\migrations\\20251125122352_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\migrations\\20251125122352_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\service\\implementations\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\service\\implementations\\subscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\service\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\service\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\service\\interfaces\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\service\\interfaces\\isubscriptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\service\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\service\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\dtos\\subscriptiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\dtos\\subscriptiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\model\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\model\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\model\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\model\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\model\\tokenentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\model\\tokenentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|c:\\users\\c902521\\desktop\\strivolab\\strivolab\\sql\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D12B3D4E-6A66-4B1F-8C63-B9A6F8864DA6}|StrivoLab\\StrivoLab.csproj|solutionrelative:strivolab\\sql\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "postman_collection.json",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\postman_collection.json",
+              "RelativeDocumentMoniker": "StrivoLab\\postman_collection.json",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\postman_collection.json",
+              "RelativeToolTip": "StrivoLab\\postman_collection.json",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T12:31:22.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "schema.sql ",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Sql\\schema.sql",
+              "RelativeDocumentMoniker": "StrivoLab\\Sql\\schema.sql",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Sql\\schema.sql",
+              "RelativeToolTip": "StrivoLab\\Sql\\schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-25T12:28:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StrivoLab\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAABAMzMzM5MwwBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:26:56.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "StrivoLab\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:25:21.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251125122352_init.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Migrations\\20251125122352_init.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Migrations\\20251125122352_init.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Migrations\\20251125122352_init.cs",
+              "RelativeToolTip": "StrivoLab\\Migrations\\20251125122352_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:23:52.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubscriptionDtos.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\DTOs\\SubscriptionDtos.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\DTOs\\SubscriptionDtos.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\DTOs\\SubscriptionDtos.cs",
+              "RelativeToolTip": "StrivoLab\\DTOs\\SubscriptionDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:19:28.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "StrivoLab\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:18:14.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StrivoLab\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\appsettings.Development.json",
+              "RelativeToolTip": "StrivoLab\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T12:02:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Implementations\\TokenService.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Service\\Implementations\\TokenService.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Implementations\\TokenService.cs",
+              "RelativeToolTip": "StrivoLab\\Service\\Implementations\\TokenService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:58:16.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Service\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "StrivoLab\\Service\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:54:42.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Interfaces\\ISubscriptionService.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Service\\Interfaces\\ISubscriptionService.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Interfaces\\ISubscriptionService.cs",
+              "RelativeToolTip": "StrivoLab\\Service\\Interfaces\\ISubscriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:55:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscriptionService.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Implementations\\SubscriptionService.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Service\\Implementations\\SubscriptionService.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Service\\Implementations\\SubscriptionService.cs",
+              "RelativeToolTip": "StrivoLab\\Service\\Implementations\\SubscriptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:57:20.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Program.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Program.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Program.cs",
+              "RelativeToolTip": "StrivoLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:03:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StrivoLab\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAgAAAAAEAswBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:09:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\appsettings.json",
+              "RelativeDocumentMoniker": "StrivoLab\\appsettings.json",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\appsettings.json",
+              "RelativeToolTip": "StrivoLab\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T12:01:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Model\\Services.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Model\\Services.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Model\\Services.cs",
+              "RelativeToolTip": "StrivoLab\\Model\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:49:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TokenEntry.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Model\\TokenEntry.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Model\\TokenEntry.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Model\\TokenEntry.cs",
+              "RelativeToolTip": "StrivoLab\\Model\\TokenEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:50:25.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Model\\Subscriber.cs",
+              "RelativeDocumentMoniker": "StrivoLab\\Model\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\C902521\\Desktop\\StrivoLab\\StrivoLab\\Model\\Subscriber.cs",
+              "RelativeToolTip": "StrivoLab\\Model\\Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:50:07.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

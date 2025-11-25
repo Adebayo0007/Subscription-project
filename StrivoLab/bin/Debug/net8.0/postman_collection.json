@@ -1,0 +1,75 @@
+{
+  "info": {
+    "name": "SubscriptionApi",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Login",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"service_id\": \"demo-service\", \"password\": \"password123\"}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/auth/login"
+        }
+      }
+    },
+    {
+      "name": "Subscribe",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"service_id\": \"demo-service\", \"token_id\": \"<token>\", \"phone_number\": \"+2348000000000\"}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/subscription/subscribe"
+        }
+      }
+    },
+    {
+      "name": "Unsubscribe",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\"service_id\": \"demo-service\", \"token_id\": \"<token>\", \"phone_number\": \"+2348000000000\"}"
+        },
+        "url": {
+          "raw": "{{baseUrl}}/api/subscription/unsubscribe"
+        }
+      }
+    },
+    {
+      "name": "Status",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{baseUrl}}/api/subscription/status?service_id=demo-service&token_id=<token>&phone_number=+2348000000000"
+        }
+      }
+    }
+  ]
+}
